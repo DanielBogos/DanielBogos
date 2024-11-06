@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on GitHub I guess
 - 📫 How to reach me: danbgs93@gmail.com
 - 😄 Pronouns: easy... He
-- ⚡ Fun fact: If an alien has a huge telescope and is watching earth right now from Andromeda, he will see T-Rex roaming the Earth and no sigh of any humans :D
+- ⚡ Fun fact: If an alien has a huge telescope and is watching earth right now from Andromeda, he will see T-Rex roaming the Earth and no sign of any humans :D
 
 <!---
 DanielBogos/DanielBogos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
